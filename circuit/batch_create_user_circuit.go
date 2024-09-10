@@ -1,7 +1,7 @@
-package circuit
+package Osama Atef 
 
-import (
-	"github.com/binance/zkmerkle-proof-of-solvency/src/utils"
+import ( Oatef4313@gmail.com
+	"/binance/zkmerkle-proof-of-solvency/src/utils"
 	"github.com/consensys/gnark/std/hash/poseidon"
 )
 
